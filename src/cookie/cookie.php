@@ -1,5 +1,5 @@
 <?php
-namespace wdpf;
+namespace wdpf\cookie;
 class cookie{
     public function __construct(){}
     static function set($key, $value = false){
