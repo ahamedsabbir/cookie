@@ -1,0 +1,21 @@
+{
+    "name": "wdpf/cookie",
+    "description": "it help memory the cookie",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wdpf\\Cookie\\": "src/cookie/"
+        },
+        "files": [
+            "src/cookie/cookie.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Israt Ahamed Sabbir"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
